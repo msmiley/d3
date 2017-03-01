@@ -1,6 +1,6 @@
 {
   "name": "@msmiley/d3",
-  "version": "4.7.0-1",
+  "version": "4.7.0-2",
   "scripts": {
     "publish": "bower install d3@4.7.0 && mv bower_components/d3/*.js ."
   }
