@@ -1,6 +1,6 @@
 # d3
 
-repackage bower d3 for npm
+repackage client-side d3 from bower for npm
 
 ## Install
 
